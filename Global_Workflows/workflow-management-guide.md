@@ -2,7 +2,6 @@
 
 ## Overview
 This guide explains how to use, create, and maintain workflows in the Cline development environment.
-
 ## Workflow Categories
 
 ### Global Workflows
