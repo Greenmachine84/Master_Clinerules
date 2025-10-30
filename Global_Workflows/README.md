@@ -1,7 +1,6 @@
 # Cline Global Workflows
 
 This directory contains universal workflows that apply to all development projects across different technologies and domains.
-
 ## Available Global Workflows
 
 ### **Development Workflows**
